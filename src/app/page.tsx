@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { ProjectCard } from "./components/ProjectCard";
 import { FontH1, FontH2, FontP } from "./components/Fonts";
-import AnasMeraba3Img from "@/app/assets/AnasMeraba3.png";
+import AnasMeraba3Img from "./assets/AnasMeraba3.png";
 import { FaGithub, FaLinkedin, FaYoutube } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 
